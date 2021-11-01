@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @habie2
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... I actually don't really now
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+👋 Hi, I’m @habie2
 
 <!---
 habie2/habie2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
